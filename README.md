@@ -3,9 +3,11 @@
 This is an information-only repo for getting acquainted with the Rady Genomics Team.
 
 ============= Mission =============
+
 Enabling the prevention, diagnosis and treatment of childhood diseases through genomic and systems medicine research.
 
 ============= Goal =============
+
 To make genetic screening fast, easy and routine care for diagnosing and delivering precision medical care to critically ill babies and children.
 
 Rady Children’s Institute for Genomic Medicine is leading the way in advancing precision healthcare for infants and children through genomic and systems medicine research.
